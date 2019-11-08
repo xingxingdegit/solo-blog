@@ -1,0 +1,29 @@
+<p align="center"><img alt="一闪一闪亮晶晶，满天都是小星星" src="https://static.b3log.org/images/brand/solo-32.png"></p><h2 align="center">
+一闪一闪亮晶晶，满天都是小星星
+</h2>
+
+<h4 align="center">记录犯二的人生</h4>
+<p align="center"><a title="一闪一闪亮晶晶，满天都是小星星" target="_blank" href="https://github.com/xingxingdegit/solo-blog"><img src="https://img.shields.io/github/last-commit/xingxingdegit/solo-blog.svg?style=flat-square&color=FF9900"></a>
+<a title="GitHub repo size in bytes" target="_blank" href="https://github.com/xingxingdegit/solo-blog"><img src="https://img.shields.io/github/repo-size/xingxingdegit/solo-blog.svg?style=flat-square"></a>
+<a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.6-f1e05a.svg?style=flat-square&color=blueviolet"></a>
+<a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/xingxingdegit/solo-blog.svg"></a></p>
+
+### 最新
+
+* [回顾 Kubernetes 最近 6 个版本重点更新(转载)](https://www.yxingxing.net/articles/2019/11/06/1573007207480.html)
+* [k8s (services、kube-proxy、endpoints)](https://www.yxingxing.net/articles/2019/11/04/1572843926441.html)
+* [k8s 认证流程](https://www.yxingxing.net/articles/2019/10/30/1572424271739.html)
+* [k8s-controller-manager](https://www.yxingxing.net/articles/2019/10/30/1572423306696.html)
+* [k8s-apiserver](https://www.yxingxing.net/articles/2019/10/30/1572423121991.html)
+* [还在备案中](https://www.yxingxing.net/articles/2019/10/29/1572319011381.html)
+* [k8s部署 三  (docker)](https://www.yxingxing.net/articles/2019/10/28/1572273802994.html)
+* [k8s部署 一 (环境规划与基础)](https://www.yxingxing.net/articles/2019/10/26/1572061552442.html)
+* [k8s部署 三 (etcd)](https://www.yxingxing.net/articles/2019/10/25/1571998499528.html)
+* [k8s部署 二 (私有ca)](https://www.yxingxing.net/articles/2019/10/25/1571997217121.html)
+* [世界，你好！](https://www.yxingxing.net/hello-solo)
+
+
+
+---
+
+本仓库通过 [Solo](https://github.com/b3log/solo) 自动进行同步更新 ❤️ 
