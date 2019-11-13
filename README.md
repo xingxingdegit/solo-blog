@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [k8s周边安装(metrics-server)](https://www.yxingxing.net/articles/2019/11/12/1573551802059.html)
 * [kube-proxy的网络实现](https://www.yxingxing.net/articles/2019/11/08/1573199662127.html)
 * [回顾 Kubernetes 最近 6 个版本重点更新(转载)](https://www.yxingxing.net/articles/2019/11/06/1573007207480.html)
 * [k8s 负载均衡实现(services、kube-proxy、endpoints)](https://www.yxingxing.net/articles/2019/11/04/1572843926441.html)
