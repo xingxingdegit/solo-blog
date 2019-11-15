@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [k8s configmap](https://www.yxingxing.net/articles/2019/11/14/1573704105136.html)
 * [flannel 问题](https://www.yxingxing.net/articles/2019/11/13/1573630418728.html)
 * [k8s周边安装(metrics-server)](https://www.yxingxing.net/articles/2019/11/12/1573551802059.html)
 * [kube-proxy的网络实现](https://www.yxingxing.net/articles/2019/11/08/1573199662127.html)
