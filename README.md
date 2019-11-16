@@ -18,7 +18,7 @@
 * [k8s 负载均衡实现(services、kube-proxy、endpoints)](https://www.yxingxing.net/articles/2019/11/04/1572843926441.html)
 * [k8s 认证流程](https://www.yxingxing.net/articles/2019/10/30/1572424271739.html)
 * [k8s-controller-manager](https://www.yxingxing.net/articles/2019/10/30/1572423306696.html)
-* [k8s-apiserver](https://www.yxingxing.net/articles/2019/10/30/1572423121991.html)
+* [k8s-apiserver ](https://www.yxingxing.net/articles/2019/10/30/1572423121991.html)
 * [k8s部署 三  (docker)](https://www.yxingxing.net/articles/2019/10/28/1572273802994.html)
 * [k8s部署 一 (环境规划与基础)](https://www.yxingxing.net/articles/2019/10/26/1572061552442.html)
 * [k8s部署 四 (etcd)](https://www.yxingxing.net/articles/2019/10/25/1571998499528.html)
