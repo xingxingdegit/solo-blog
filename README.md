@@ -2,7 +2,7 @@
 一闪一闪亮晶晶，满天都是小星星
 </h2>
 
-<h4 align="center">记录犯二的人生</h4>
+<h4 align="center">记录犯二的历程</h4>
 <p align="center"><a title="一闪一闪亮晶晶，满天都是小星星" target="_blank" href="https://github.com/xingxingdegit/solo-blog"><img src="https://img.shields.io/github/last-commit/xingxingdegit/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/xingxingdegit/solo-blog"><img src="https://img.shields.io/github/repo-size/xingxingdegit/solo-blog.svg?style=flat-square"></a>
 <a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.6-f1e05a.svg?style=flat-square&color=blueviolet"></a>
