@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [etcdctl v3 查询](https://www.yxingxing.net/articles/2019/11/21/1574306668270.html)
 * [filebeat发往es的索引不对](https://www.yxingxing.net/articles/2019/11/19/1574160820980.html)
 * [k8s configmap](https://www.yxingxing.net/articles/2019/11/14/1573704105136.html)
 * [flannel 问题](https://www.yxingxing.net/articles/2019/11/13/1573630418728.html)
