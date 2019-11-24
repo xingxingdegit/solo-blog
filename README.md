@@ -10,6 +10,9 @@
 
 ### 最新
 
+* [k8s 二进制部署 八 (flannel)](https://www.yxingxing.net/articles/2019/11/23/1574498235951.html)
+* [k8s 二进制部署 七 (kube-scheduler)](https://www.yxingxing.net/articles/2019/11/23/1574491784972.html)
+* [k8s 二进制部署 六 (kube-controller-manager)](https://www.yxingxing.net/articles/2019/11/23/1574481204488.html)
 * [etcdctl v3 查询](https://www.yxingxing.net/articles/2019/11/21/1574306668270.html)
 * [filebeat发往es的索引不对](https://www.yxingxing.net/articles/2019/11/19/1574160820980.html)
 * [k8s configmap](https://www.yxingxing.net/articles/2019/11/14/1573704105136.html)
@@ -17,15 +20,15 @@
 * [k8s周边安装(metrics-server)](https://www.yxingxing.net/articles/2019/11/12/1573551802059.html)
 * [kube-proxy的网络实现](https://www.yxingxing.net/articles/2019/11/08/1573199662127.html)
 * [回顾 Kubernetes 最近 6 个版本重点更新(转载)](https://www.yxingxing.net/articles/2019/11/06/1573007207480.html)
-* [k8s 部署 五 (kube-apiserver)](https://www.yxingxing.net/articles/2019/11/06/1572999313764.html)
+* [k8s 二进制部署 五 (kube-apiserver)](https://www.yxingxing.net/articles/2019/11/06/1572999313764.html)
 * [k8s 负载均衡实现(services、kube-proxy、endpoints)](https://www.yxingxing.net/articles/2019/11/04/1572843926441.html)
 * [k8s 认证流程](https://www.yxingxing.net/articles/2019/10/30/1572424271739.html)
 * [k8s-controller-manager 参数](https://www.yxingxing.net/articles/2019/10/30/1572423306696.html)
 * [k8s-apiserver 参数](https://www.yxingxing.net/articles/2019/10/30/1572423121991.html)
-* [k8s部署 三  (docker)](https://www.yxingxing.net/articles/2019/10/28/1572273802994.html)
-* [k8s部署 一 (环境规划与基础)](https://www.yxingxing.net/articles/2019/10/26/1572061552442.html)
-* [k8s部署 四 (etcd)](https://www.yxingxing.net/articles/2019/10/25/1571998499528.html)
-* [k8s部署 二 (私有ca)](https://www.yxingxing.net/articles/2019/10/25/1571997217121.html)
+* [k8s 二进制部署 三  (docker)](https://www.yxingxing.net/articles/2019/10/28/1572273802994.html)
+* [k8s 二进制部署 一 (环境规划与基础)](https://www.yxingxing.net/articles/2019/10/26/1572061552442.html)
+* [k8s 二进制部署 四 (etcd)](https://www.yxingxing.net/articles/2019/10/25/1571998499528.html)
+* [k8s 二进制部署 二 (私有ca)](https://www.yxingxing.net/articles/2019/10/25/1571997217121.html)
 
 
 
