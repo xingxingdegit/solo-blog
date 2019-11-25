@@ -11,6 +11,7 @@
 ### 最新
 
 * [k8s 二进制部署 八 (flannel)](https://www.yxingxing.net/articles/2019/11/23/1574498235951.html)
+* [k8s 二进制部署 九 (kubelet)](https://www.yxingxing.net/articles/2019/11/23/1574498155825.html)
 * [k8s 二进制部署 七 (kube-scheduler)](https://www.yxingxing.net/articles/2019/11/23/1574491784972.html)
 * [k8s 二进制部署 六 (kube-controller-manager)](https://www.yxingxing.net/articles/2019/11/23/1574481204488.html)
 * [etcdctl v3 查询](https://www.yxingxing.net/articles/2019/11/21/1574306668270.html)
