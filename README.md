@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [使用curl命令测试serviceaccount](https://www.yxingxing.net/articles/2019/11/25/1574651706002.html)
 * [k8s 二进制部署 八 (flannel)](https://www.yxingxing.net/articles/2019/11/23/1574498235951.html)
 * [k8s 二进制部署 九 (kubelet)](https://www.yxingxing.net/articles/2019/11/23/1574498155825.html)
 * [k8s 二进制部署 七 (kube-scheduler)](https://www.yxingxing.net/articles/2019/11/23/1574491784972.html)
@@ -29,6 +30,9 @@
 * [k8s 二进制部署 三  (docker)](https://www.yxingxing.net/articles/2019/10/28/1572273802994.html)
 * [k8s 二进制部署 一 (环境规划与基础)](https://www.yxingxing.net/articles/2019/10/26/1572061552442.html)
 * [k8s 二进制部署 四 (etcd)](https://www.yxingxing.net/articles/2019/10/25/1571998499528.html)
+
+### 热门
+
 * [k8s 二进制部署 二 (私有ca)](https://www.yxingxing.net/articles/2019/10/25/1571997217121.html)
 
 
