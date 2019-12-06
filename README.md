@@ -5,11 +5,13 @@
 <h4 align="center">记录犯二的历程</h4>
 <p align="center"><a title="一闪一闪亮晶晶，满天都是小星星" target="_blank" href="https://github.com/xingxingdegit/solo-blog"><img src="https://img.shields.io/github/last-commit/xingxingdegit/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/xingxingdegit/solo-blog"><img src="https://img.shields.io/github/repo-size/xingxingdegit/solo-blog.svg?style=flat-square"></a>
-<a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.6-f1e05a.svg?style=flat-square&color=blueviolet"></a>
-<a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/xingxingdegit/solo-blog.svg"></a></p>
+<a title="Solo Version" target="_blank" href="https://github.com/88250/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.6-f1e05a.svg?style=flat-square&color=blueviolet"></a>
+<a title="Hits" target="_blank" href="https://github.com/88250/hits"><img src="https://hits.b3log.org/xingxingdegit/solo-blog.svg"></a></p>
 
 ### 最新
 
+* [prometheus 官方网站配置部分格式介绍](https://www.yxingxing.net/articles/2019/12/05/1575529561916.html)
+* [prometheus 独立安装监控k8s](https://www.yxingxing.net/articles/2019/12/03/1575356398124.html)
 * [使用curl命令测试serviceaccount](https://www.yxingxing.net/articles/2019/11/25/1574651706002.html)
 * [k8s 二进制部署 八 (flannel)](https://www.yxingxing.net/articles/2019/11/23/1574498235951.html)
 * [k8s 二进制部署 九 (kubelet)](https://www.yxingxing.net/articles/2019/11/23/1574498155825.html)
@@ -28,15 +30,15 @@
 * [k8s-controller-manager 参数](https://www.yxingxing.net/articles/2019/10/30/1572423306696.html)
 * [k8s-apiserver 参数](https://www.yxingxing.net/articles/2019/10/30/1572423121991.html)
 * [k8s 二进制部署 三  (docker)](https://www.yxingxing.net/articles/2019/10/28/1572273802994.html)
-* [k8s 二进制部署 一 (环境规划与基础)](https://www.yxingxing.net/articles/2019/10/26/1572061552442.html)
-* [k8s 二进制部署 四 (etcd)](https://www.yxingxing.net/articles/2019/10/25/1571998499528.html)
 
 ### 热门
 
+* [k8s 二进制部署 四 (etcd)](https://www.yxingxing.net/articles/2019/10/25/1571998499528.html)
 * [k8s 二进制部署 二 (私有ca)](https://www.yxingxing.net/articles/2019/10/25/1571997217121.html)
+* [k8s 二进制部署 一 (环境规划与基础)](https://www.yxingxing.net/articles/2019/10/26/1572061552442.html)
 
 
 
 ---
 
-本仓库通过 [Solo](https://github.com/b3log/solo) 自动进行同步更新 ❤️ 
+本仓库通过 [Solo](https://github.com/88250/solo) 自动进行同步更新 ❤️ 
