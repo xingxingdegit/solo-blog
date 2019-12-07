@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [prometheus 配置](https://www.yxingxing.net/articles/2019/12/06/1575622610873.html)
 * [prometheus 官方网站配置部分格式介绍](https://www.yxingxing.net/articles/2019/12/05/1575529561916.html)
 * [prometheus 独立安装监控k8s](https://www.yxingxing.net/articles/2019/12/03/1575356398124.html)
 * [使用curl命令测试serviceaccount](https://www.yxingxing.net/articles/2019/11/25/1574651706002.html)
@@ -29,13 +30,13 @@
 * [k8s 认证流程](https://www.yxingxing.net/articles/2019/10/30/1572424271739.html)
 * [k8s-controller-manager 参数](https://www.yxingxing.net/articles/2019/10/30/1572423306696.html)
 * [k8s-apiserver 参数](https://www.yxingxing.net/articles/2019/10/30/1572423121991.html)
-* [k8s 二进制部署 三  (docker)](https://www.yxingxing.net/articles/2019/10/28/1572273802994.html)
 
 ### 热门
 
 * [k8s 二进制部署 四 (etcd)](https://www.yxingxing.net/articles/2019/10/25/1571998499528.html)
 * [k8s 二进制部署 二 (私有ca)](https://www.yxingxing.net/articles/2019/10/25/1571997217121.html)
 * [k8s 二进制部署 一 (环境规划与基础)](https://www.yxingxing.net/articles/2019/10/26/1572061552442.html)
+* [k8s 二进制部署 三  (docker)](https://www.yxingxing.net/articles/2019/10/28/1572273802994.html)
 
 
 
